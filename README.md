@@ -1,6 +1,6 @@
 Here’s the updated README.md to include the detail about generating names with a character-level language model:
 
-# Makemore Neural Networks
+# Name Generator language model
 
 This repository contains my implementation and learning journey inspired by **Andrej Karpathy's "Makemore" video series**. The project explores the step-by-step process of building and understanding neural networks, focusing on concepts such as bigrams, multi-layer perceptrons (MLPs), batch normalization, backpropagation, and a **WaveNet-style language model**. 
 
